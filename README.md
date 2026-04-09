@@ -1,18 +1,72 @@
-# React + Vite
+# Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive developer portfolio built with **React** and **Bootstrap**.
+This project is designed to showcase projects, skills, and professional experience in a clean and structured way. 🚀
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* Responsive design for desktop, tablet, and mobile devices 📱
+* Modern UI built with React components
+* Styled using Bootstrap for fast and consistent layouts
+* Easy to customize and extend
+* Ideal for developers who want a clean portfolio template
 
-## React Compiler
+## ⚙️ Customization
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+All portfolio information can be easily customized.
 
-Note: This will impact Vite dev & build performances.
+To modify the content of the portfolio, navigate to:
 
-## Expanding the ESLint configuration
+```
+src/data/portfolio
+```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Inside this folder you will find the data files that control the portfolio content such as:
+
+* Personal information
+* Projects
+* Skills
+* Social links
+* Experience
+
+You can **fully personalize the portfolio** by editing these files to adapt the content to your own profile, projects, and professional information.
+
+## 🛠️ Technologies Used
+
+* React
+* Bootstrap
+* JavaScript
+* HTML5
+* CSS3
+
+## 🚀 Getting Started
+
+1. Clone the repository
+
+```bash
+git clone <your-repository-url>
+```
+
+2. Install dependencies
+
+```bash
+npm install
+```
+
+3. Run the development server
+
+```bash
+npm run dev
+```
+
+or
+
+```bash
+npm start
+```
+
+## 📌 Purpose
+
+This portfolio template is intended to help developers quickly create a professional personal website where they can present their work, technical stack, and experience.
+
+Feel free to customize it and adapt it to your own style and needs.
