@@ -1,0 +1,19 @@
+/* ─── CURSOR ──────────────────────────────────────────────────────────────── */
+.p-cursor {
+  width: 8px;
+  height: 8px;
+  background: var(--ink);
+  border-radius: 50%;
+  position: fixed;
+  pointer-events: none;
+  z-index: 9999;
+  transition: transform 0.15s ease, width 0.2s, height 0.2s, background 0.2s;
+  transform: translate(-50%, -50%);
+}
+
+.p-cursor.grow {
+  width: 36px;
+  height: 36px;
+  background: transparent;
+  border: 1px solid var(--ink);
+}
