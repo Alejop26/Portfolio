@@ -26,6 +26,13 @@ export const DATA = {
   },
   projects: [
     {
+      title: "PixelVault",
+      year: "2026",
+      stack: "React · React Router · Bootstrap · Canvas API · Node.js · Express · MongoDB · JWT · bcrypt · helmet · Vercel · Render",
+      desc: "Arcade-style web app featuring classic games: Snake, Minesweeper, Tetris, and Breakout. Includes user login and a global ranking system where players compete for the highest scores across all games. Designed for a fun, competitive experience in a modern web interface.",
+      link: "https://pixel-vault-livid.vercel.app"
+    },
+    {
       title: "BookVault",
       year: "2026",
       stack: "React · Node.js · Express · MongoDB · JWT · Bootstrap · Vercel · Render · Bcrypt",
@@ -46,13 +53,7 @@ export const DATA = {
       desc: "Shoplify is a web application that allows users to create and customize a product landing page. Users can add, edit, and organize products while changing the store’s background and text colors. All changes are saved automatically in localStorage, allowing the page configuration to persist without a backend",
       link: "https://shoplify-k56v51vb7-alejoop21s-projects.vercel.app"
     },
-    {
-      title: "PixelVault",
-      year: "2026",
-      stack: "React · React Router · Bootstrap · Canvas API · Node.js · Express · MongoDB · JWT · bcrypt · helmet · Vercel · Render",
-      desc: "Arcade-style web app featuring classic games: Snake, Minesweeper, Tetris, and Breakout. Includes user login and a global ranking system where players compete for the highest scores across all games. Designed for a fun, competitive experience in a modern web interface.",
-      link: "https://pixel-vault-livid.vercel.app"
-    },
+    
   ],
   contact: {
   email: "jualparraal21@gmail.com",
