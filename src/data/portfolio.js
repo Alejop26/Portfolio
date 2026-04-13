@@ -47,10 +47,11 @@ export const DATA = {
       link: "https://shoplify-k56v51vb7-alejoop21s-projects.vercel.app"
     },
     {
-      title: "Delta",
-      year: "2022",
-      stack: "React Native · Firebase",
-      desc: "App móvil de seguimiento de hábitos con notificaciones push.",
+      title: "PixelVault",
+      year: "2026",
+      stack: "React · React Router · Bootstrap · Canvas API · Node.js · Express · MongoDB · JWT · bcrypt · helmet · Vercel · Render",
+      desc: "Arcade-style web app featuring classic games: Snake, Minesweeper, Tetris, and Breakout. Includes user login and a global ranking system where players compete for the highest scores across all games. Designed for a fun, competitive experience in a modern web interface.",
+      link: "https://pixel-vault-livid.vercel.app"
     },
   ],
   contact: {
